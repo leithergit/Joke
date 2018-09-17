@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JokeLib", "JokeLib\JokeLib.vcxproj", "{BF4E892A-9C77-4CF4-926E-177AF284A7FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JokeDSE", "JokeDSE\JokeDSE.vcxproj", "{F295EDF1-C114-4902-8069-A9D43FB58243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4E892A-9C77-4CF4-926E-177AF284A7FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF4E892A-9C77-4CF4-926E-177AF284A7FF}.Debug|Win32.Build.0 = Debug|Win32
+		{BF4E892A-9C77-4CF4-926E-177AF284A7FF}.Release|Win32.ActiveCfg = Release|Win32
+		{BF4E892A-9C77-4CF4-926E-177AF284A7FF}.Release|Win32.Build.0 = Release|Win32
+		{F295EDF1-C114-4902-8069-A9D43FB58243}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F295EDF1-C114-4902-8069-A9D43FB58243}.Debug|Win32.Build.0 = Debug|Win32
+		{F295EDF1-C114-4902-8069-A9D43FB58243}.Release|Win32.ActiveCfg = Release|Win32
+		{F295EDF1-C114-4902-8069-A9D43FB58243}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal

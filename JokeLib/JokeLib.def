@@ -1,0 +1,7 @@
+; AssistLib.def : Declares the module parameters for the DLL.
+
+LIBRARY	JokeLib
+
+EXPORTS
+	EnableJoke
+	ExcuteJoke
